@@ -14,5 +14,4 @@ I was the sole developer and also handled UI and interaction design.
   - Vanilla JavaScript click interactions on the intro page
   - Concept video hosted via GitHub Releases and embedded with HTML5 video
 
-> **Status:** Archived. The site is no longer online; this repository is kept for code reference.
 > All artwork and written content belong to their original creators.
